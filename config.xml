@@ -19,7 +19,6 @@
 
 		
 	<preference name="phonegap-version" value="3.7.0" />
-	<preference name="orientation" value="portrait" />
 			
 	<gap:plugin name="org.apache.cordova.geolocation" />
 </widget>
